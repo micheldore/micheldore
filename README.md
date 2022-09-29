@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @mndore
+- 👋 Hi, I’m @micheldore
 - 🌱 I’m currently learning NextJS
