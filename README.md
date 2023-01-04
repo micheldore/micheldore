@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @micheldore
-- 🌱 I’m currently learning NextJS
-- 🌱 I'm currently learning FastAPI
+- 👨‍💻 I’m currently working with NextJS and FastAPI
+- 🌱 I'm currently learning React Native
